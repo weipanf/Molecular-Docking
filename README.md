@@ -3,8 +3,7 @@ Molecular Docking documentation
 
 Contents
 
-.. toctree::
- 
+
  What is Molecular Docking <Intro>
  Code overview <Code>
  Installation  <Install>
